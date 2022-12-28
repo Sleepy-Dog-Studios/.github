@@ -1,6 +1,6 @@
 ## Hello there! We are Sleepy Dog Studios 👋
 
-> "Virtual Story Telling done one Reality at a time..."
+#### "Virtual Story Telling done one Reality at a time..."
 
 ## Who are we?
 
