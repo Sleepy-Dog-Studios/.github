@@ -15,10 +15,10 @@
 
 ## Current Members:
 
-ExpoDev (Pablo) - Co-Founder and Programmer
-Laneboi (Lane) - Co-Founder and Game Artist
-DylanDev (Dylan) - Programmer
-Mojoe () - Programmer
+- [ExpoDev](https://www.expodev.dev/) (Pablo) - Co-Founder and Programmer
+- Laneboi (Lane) - Co-Founder and Game Artist
+- [DylanDev](https://www.dylanravel.com/) (Dylan) - Programmer
+- Mojoe - Programmer
 
 
 ## Important Links:
