@@ -25,4 +25,4 @@
 
 - [Official Website Website](https://www.sleepydogstudios.com/)
 - [The Obsessive Shadow Steam Page](https://store.steampowered.com/app/2074360/The_Obsessive_Shadow/)
-- [The Obsessive Shadow Sidequest Page](https://sidequestvr.com/app/9102/the-obsessive-shadow]
+- [The Obsessive Shadow Sidequest Page](https://sidequestvr.com/app/9102/the-obsessive-shadow)
