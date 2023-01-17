@@ -10,7 +10,7 @@
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
-🍿 Fun fact - We are spaced out all over the US including California, Colorado, Tennessee, and more!
+🍿 Fun fact - We are spaced out all over the US including California, Colorado, Tennessee, Ohio and more!
 
 
 ## Current Members:
