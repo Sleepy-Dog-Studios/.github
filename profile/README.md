@@ -8,17 +8,17 @@
 
 🌈 Contribution guidelines - We don't do open source on our games, unfortuntely, however, if you are interested in working for us, please contact one of the members!
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
 🍿 Fun fact - We are spaced out all over the US including California, Colorado, Tennessee, Ohio and more!
+
+👩‍💻 Privacy Policy - You can find our privacy policy over at [sleepydogstudios.net/privacy-policy](https://wwww.sleepydogstudios.net/privacy-policy/)
 
 
 ## Current Members:
 
 - [ExpoDev](https://www.expodev.dev/) (Pablo) - Co-Founder and Programmer
-- Laneboi (Lane) - Co-Founder and Game Artist
-- [DylanDev](https://www.dylanravel.com/) (Dylan) - Programmer
-- Mojoe - Programmer
+- Laneboi (Lane) - Co-Founder and Art Director
+- [DylanDev](https://www.dylanravel.com/) (Dylan) - Lead Programmer and Developer
+- Mojoe - Programmer and Developer
 
 
 ## Important Links:
