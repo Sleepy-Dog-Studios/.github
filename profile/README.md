@@ -10,7 +10,7 @@
 
 🍿 Fun fact - We are spaced out all over the US including California, Colorado, Tennessee, Ohio and more!
 
-👩‍💻 Privacy Policy - You can find our privacy policy over at [sleepydogstudios.net/privacy-policy](https://wwww.sleepydogstudios.net/privacy-policy/)
+👩‍💻 Privacy Policy - You can find our privacy policy over at [sleepydogstudios.net/privacy-policy](https://www.sleepydogstudios.net/privacy-policy/)
 
 
 ## Current Members:
