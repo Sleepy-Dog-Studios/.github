@@ -4,11 +4,11 @@
 
 ## Who are we?
 
-🙋‍♀️ A short introduction - We are a indie game development studio working on lots of different projects.
+🙋‍♀️ A short introduction - We are an indie game development studio working on lots of different projects.
 
-🌈 Contribution guidelines - We don't do open source on our games, unfortuntely, however, if you are interested in working for us, please contact one of the members!
+🌈 Contribution guidelines - We don't do open source on our games, unfortunately, however, if you are interested in working for us, don't hesitate to get in touch with one of our developers! On a side note, our websites are open source. If you want to contribute, go to our public repositories and read the contributing guidelines.
 
-🍿 Fun fact - We are spaced out all over the US including California, Colorado, Tennessee, Ohio and more!
+🍿 Fun fact - We are spaced out all over the US including California, Colorado, Tennessee, Ohio, and more!
 
 👩‍💻 Privacy Policy - You can find our privacy policy over at [sleepydogstudios.net/privacy-policy](https://sleepydogstudios.net/privacy-policy)
 
